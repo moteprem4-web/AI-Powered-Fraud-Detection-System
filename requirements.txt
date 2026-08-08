@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+sqlalchemy>=2.0
+psycopg2-binary
+streamlit
+requests
+plotly
