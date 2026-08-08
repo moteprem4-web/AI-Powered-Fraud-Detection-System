@@ -883,12 +883,20 @@ If deployment is not available, the project can be evaluated locally using the s
 
 Machine Learning / AI Engineer
 
-GitHub: `https://github.com/YOUR_USERNAME`
+GitHub: `https://github.com/moteprem4-web`
 
-LinkedIn: `https://www.linkedin.com/in/YOUR_PROFILE/`
+LinkedIn: `https://www.linkedin.com/in/prem-mote-898a99385`
 
 ---
 
 # 📄 License
 
 This project is created for educational, portfolio, and demonstration purposes.
+<img width="1592" height="882" alt="image" src="https://github.com/user-attachments/assets/a960db20-8f39-4f65-9569-a5e077fc3dec" />
+<img width="1422" height="687" alt="image" src="https://github.com/user-attachments/assets/bdff7d4f-3398-44c6-8e69-68b38562eb08" />
+<img width="1527" height="677" alt="image" src="https://github.com/user-attachments/assets/63591363-824d-4459-9641-98157182f82d" />
+<img width="1896" height="952" alt="image" src="https://github.com/user-attachments/assets/a6e6df49-73f2-4b5c-8193-cf0ffca7057f" />
+
+
+
+
